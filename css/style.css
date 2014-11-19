@@ -1,0 +1,11 @@
+div.bar {
+    display: inline-block;
+    color: white;
+    margin-right: 2px;
+    font-family: "Arial";
+    font-size: 9px;
+    text-align: center;
+    width: 20px;
+    height: 75px;   /* We'll override height later */
+    background-color: #666666;
+}
